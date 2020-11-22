@@ -60,9 +60,9 @@ header .header-container div p{
     content: "";
     height: 23px;
     width: 23px;
-    left: 30px;
+    left: 4px;
     top: 2px;
-    background-color: hsl(230, 17%, 14%));
+    background-color: hsl(230, 17%, 14%);
     transition: 1s;
 }
 input:checked + .slider{
@@ -70,7 +70,7 @@ input:checked + .slider{
 }
 input:checked + .slider::before{
     background-color: white;
-    transform: translateX(-28px);
+    transform: translateX(28px);
 }
 
 .slider::before{
