@@ -80,7 +80,7 @@ input:checked + .slider::before{
 h1{
     font-size: 25px;
     font-weight: 700;
-    color: hsl(228, 34%, 66%);
+    color: white;
 }
 
 .main section{
@@ -156,7 +156,7 @@ h3{
 }
 h2{
     font-size: 22px;
-    color: hsl(228, 34%, 66%);
+    color: white;
     font-weight: 600;
 }
 
@@ -279,7 +279,7 @@ h2{
         height: 100px;
     }
     .overview section div:nth-child(1){
-        width: 110px;
+        width: 140px;
     }
     .overview section div:nth-child(2){
         margin-left: 5px;
