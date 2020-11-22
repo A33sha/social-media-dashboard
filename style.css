@@ -331,7 +331,8 @@ h2{
         margin: 15px auto;
     }
     h2{
-        margin: 30px 150px 15px;
+        width: 300px;
+        margin: 70px auto 20px;
     }
     .overview{
         display: block;
